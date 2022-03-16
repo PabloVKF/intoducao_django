@@ -1,4 +1,5 @@
 # My ignores
+aluraReceita/dados_privados.py
 .idea
 
 # Byte-compiled / optimized / DLL files
